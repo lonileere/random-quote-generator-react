@@ -4,7 +4,7 @@ import Quote from "./Quote";
 
 function App() {
   return (
-   <div>
+   <div id="container">
      <Quote/>
    </div>
   );
